@@ -6,7 +6,7 @@ This is a command-line chat application built using Rust and Postgres builtin fu
 
 ![chat sample](https://github.com/guibeira/postgres-chat/raw/main/image/pg_chat.gif "sample")
 ## Development
-To install this application, you will need Rust and Cargo installed on your machine. Then, run the following command:
+To install this application, you will need Rust and Cargo installed on your machine. Then, update the `DATABASE_URL` in the .env file and run the following command:
 
 ```bash
  git clone https://github.com/guibeira/postgres-chat.git
